@@ -1,5 +1,5 @@
 # Project: AI Programming with Python Nanodegree
-![Interface](https://github.com/Kondwani7/AI_programming-with-python_nanodegree_final_project/blob/main/img/aiml_scholarship_program_featured.png)
+![Interface](https://github.com/Kondwani7/AWS-Udacity_ML-Advanced-Program_project-2/blob/main/img/aiml_scholarship_program_featured%20(1).png)
 
 ### Project 2: Developing a Handwritten Digits Classifier with PyTorch Project
 - In this project, pytorch was used to classify digits from the range 0 to 9.
